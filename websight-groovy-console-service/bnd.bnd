@@ -1,0 +1,6 @@
+Bundle-Name: WebSight Groovy Console Service
+Bundle-License: GNU AGPLv3
+Sling-Model-Packages: pl.ds.websight.groovyconsole.rest
+Sling-Bundle-Resources: /apps/websight-groovy-console-service/docs
+Sling-Nodetypes: SLING-INF/nodetypes/nodetypes.cnd
+WebSight-Swagger-Index: /apps/websight-groovy-console-service/docs/api.html

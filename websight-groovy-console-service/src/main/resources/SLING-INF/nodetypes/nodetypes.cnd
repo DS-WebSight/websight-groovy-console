@@ -1,0 +1,5 @@
+<ws = 'http://websight.ds.pl/'>
+
+[ws:Executable] mixin
+  - ws:lastExecuted (Date)
+  - ws:lastExecutedBy (String)
